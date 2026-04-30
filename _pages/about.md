@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zoya Mooraj | Cognitive Neuroscience of Aging"
+title: "Zoya Mooraj - Cognitive Neuroscience of Aging"
 author_profile: true
 redirect_from: 
   - /about/
