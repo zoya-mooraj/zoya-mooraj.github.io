@@ -32,3 +32,7 @@ I investigate whether changes in white matter structure mediate the relationship
 - poster on dropout at EUCAS
 - modelling practice effects in accuracy and confidence judgements
 - difference scores as a (uninformed) case of regressed change
+
+## fMRI Denoising of Motion Artefacts
+- SHE things
+- SHED
