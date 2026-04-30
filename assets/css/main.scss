@@ -41,3 +41,9 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.author__bio {
+  white-space: normal !important;
+  overflow: visible !important;
+  text-overflow: unset !important;
+}
