@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " "
+title: "Zoya Mooraj - Cognitive Neuroscience of Aging"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,10 +8,9 @@ redirect_from:
 ---
 ## Introduction
 
-Hi, I’m Zoya Mooraj.
+Hi, I’m Zoya.
 
-I am a PhD candidate in cognitive neuroscience at the Max Planck Institute for Human Development in Berlin.
-My research focuses on how changes in brain structure and function jointly shape cognitive aging.
+I am a PhD candidate in cognitive neuroscience at the Max Planck Institute for Human Development in Berlin. My research focuses on how changes in brain structure and function jointly shape cognitive aging.
 
 Some main themes and research lines are outlined below.
 
