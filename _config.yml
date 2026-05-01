@@ -90,8 +90,8 @@ publication_category:
     title: 'Preprints'
   manuscripts:
     title: 'Manuscripts in Preperation'
-  books:
-    title: 'Books'
+  conferences:
+    title: 'Conference Presentations'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

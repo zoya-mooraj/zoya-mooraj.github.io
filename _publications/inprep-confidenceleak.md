@@ -3,7 +3,7 @@ title: "Metamemory in younger and older adults: Neurocognitive processes underly
 collection: publications
 category: manuscripts
 permalink: /publication/inprep-confidenceleak
-#date: 2025-10-01
+date: "in prep"
 venue: "Manuscript in preparation"
 authors: "Mooraj et al."
 ---

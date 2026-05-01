@@ -1,7 +1,7 @@
 ---
 title: "Toward a functional future for the cognitive neuroscience of human aging"
 collection: publications
-category: manuscripts
+category: publications
 permalink: /publication/2015-Neuron-1
 excerpt: 'This paper is a perspective piece advocating for a funtional approach for understanding cognitive aging.'
 date: 2025-10-01
