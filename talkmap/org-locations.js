@@ -21,7 +21,7 @@ var addressPoints = [
   ],
   [
     "Exploring the effects of selective dropout in longitudinal fMRI studies<br />European Cognitive Aging Society (EUCAS) Meeting 2025; Pavia, Italy",
-    45.0368547,
+    45.0368546,
     9.1378251
   ],
   [
@@ -41,7 +41,7 @@ var addressPoints = [
   ],
   [
     "Towards a functional future for the cognitive neuroscience of human aging<br />European Cognitive Aging Society (EUCAS) Meeting 2025; Pavia, Italy",
-    45.0368547,
+    45.0368546,
     9.1378251
   ],
   [
