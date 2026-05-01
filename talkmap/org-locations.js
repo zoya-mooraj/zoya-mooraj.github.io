@@ -50,7 +50,7 @@ var addressPoints = [
     13.3951309
   ],
   [
-    "Age differences in metamemory: Neural and behavioral processes underlying confidence computation in aging<br />Max Planck UCL Computational Psychiatry and Aging Research Academy; Royal Society - Londen, UK",
+    "Age differences in metamemory: Neural and behavioral processes underlying confidence computation in aging<br />Max Planck UCL Computational Psychiatry and Aging Research Academy; Royal Society - London, UK",
     51.5193931,
     -0.1125599
   ],
