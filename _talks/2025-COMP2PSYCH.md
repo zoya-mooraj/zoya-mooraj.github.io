@@ -8,3 +8,5 @@ venue: "Max Planck UCL Computational Psychiatry and Aging Research Academy "
 date: 2025-12-01
 location: "Royal Society - London, UK"
 ---
+
+![Talk at Royal Society](/images/COMP2PSYCH2025.jpeg)
