@@ -8,5 +8,3 @@ venue: "Max Planck UCL Computational Psychiatry and Aging Research Academy"
 date: 2026-11-01
 location: "Berlin, Germany"
 ---
-
-Talk Abstract: 

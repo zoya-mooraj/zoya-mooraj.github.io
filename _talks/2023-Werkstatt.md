@@ -8,5 +8,3 @@ venue: "Max Planck Dahlem Campus of Cognition Werkstatt"
 date: 2023-10-01
 location: "Berlin, Germany"
 ---
-
-Talk Abstract: 

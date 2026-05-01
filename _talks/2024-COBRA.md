@@ -8,5 +8,3 @@ venue: "Cognition and Brain Aging (COBRA) Retreat "
 date: 2024-05-01
 location: "Berlin, Germany"
 ---
-
-Talk Abstract: 

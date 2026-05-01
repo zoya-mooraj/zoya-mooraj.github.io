@@ -8,5 +8,3 @@ venue: "Dr. Mansson’s Group, Department of Clinical Neuroscience"
 date: 2025-07-01
 location: "Karolinska Institute - Stockholm, Sweden"
 ---
-
-Talk Abstract: 

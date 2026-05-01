@@ -8,5 +8,3 @@ venue: "Dr. Salami's Group"
 date: 2025-11-01
 location: "Florida State University - Florida, USA"
 ---
-
-Talk Abstract: 

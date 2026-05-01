@@ -8,5 +8,3 @@ venue: "Cognition and Brain Aging (COBRA) Retreat"
 date: 2025-05-01
 location: "Gothenburg, Sweden"
 ---
-
-Talk Abstract: 
