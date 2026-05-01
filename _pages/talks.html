@@ -7,9 +7,9 @@ author_profile: true
 
 {% assign talks = site.talks | sort: "date" | reverse %}
 
-{% assign types = talks | map: "type" | uniq %}
+{% assign ordered_types = "Conference Presentation,Other Talks" | split: "," %}
 
-{% for type in types %}
+{% for type in ordered_types %}
   <h2>{{ type }}</h2>
 
   {% for post in talks %}
@@ -19,3 +19,21 @@ author_profile: true
   {% endfor %}
 
 {% endfor %}
+
+
+{% assign used_types = ordered_types %}
+
+{% for post in talks %}
+  {% unless used_types contains post.type %}
+    {% assign has_other = true %}
+  {% endunless %}
+{% endfor %}
+
+{% if has_other %}
+  <h2>Other</h2>
+  {% for post in talks %}
+    {% unless ordered_types contains post.type %}
+      {% include archive-single-talk.html %}
+    {% endunless %}
+  {% endfor %}
+{% endif %}
