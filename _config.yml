@@ -23,7 +23,7 @@ repository               : "zoya-mooraj/zoya-mooraj.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Zoya Mooraj"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate: Cognitive Neuroscience"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "academicpages"
+  github           : "https://github.com/zoya-mooraj"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -84,12 +84,14 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  publications:
+    title: 'Peer-reviewed Publications'    
+  preprints:
+    title: 'Preprints'
+  manuscripts:
+    title: 'Manuscripts in Preperation'
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
