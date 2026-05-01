@@ -1,7 +1,7 @@
 ---
 title: "Metamemory in younger and older adults: Neurocognitive processes underlying age differences in confidence computation"
 collection: publications
-category: manuscripts
+category: manuscript
 permalink: /publication/inprep-confidenceleak
 date: 2026-01-01
 venue: "Manuscript in preparation"
