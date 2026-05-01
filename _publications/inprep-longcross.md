@@ -5,5 +5,5 @@ category: manuscripts
 permalink: /publication/inprep-longcross
 date: 2026-01-01
 venue: "Manuscript in preparation"
-authors: "Alneas, Mooraj et al."
+citation: 'Alneas, Mooraj et al. <i>(in prep)</i>
 ---
