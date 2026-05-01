@@ -5,28 +5,17 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% assign talks = site.talks | sort: 'date' | reverse %}
+{% assign talks = site.talks | sort: "date" | reverse %}
 
-## Talks
+{% assign types = talks | map: "type" | uniq %}
 
-{% for post in talks %}
-  {% if post.type == "Talk" %}
-    {% include archive-single-talk.html %}
-  {% endif %}
-{% endfor %}
+{% for type in types %}
+  <h2>{{ type }}</h2>
 
-## Posters
+  {% for post in talks %}
+    {% if post.type == type %}
+      {% include archive-single-talk.html %}
+    {% endif %}
+  {% endfor %}
 
-{% for post in talks %}
-  {% if post.type == "Poster" %}
-    {% include archive-single-talk.html %}
-  {% endif %}
-{% endfor %}
-
-## Invited Talks
-
-{% for post in talks %}
-  {% if post.type == "Invited Talk" %}
-    {% include archive-single-talk.html %}
-  {% endif %}
 {% endfor %}
