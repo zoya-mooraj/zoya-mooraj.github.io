@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Shared and Unique Neural Contributions to Behavior in Older Adults<br />Psychology und Gehirn 2026; Heidelberg, Berlin",
+    "Shared and unique neural contributions to behavior in older adults<br />Psychology und Gehirn 2026; Heidelberg, Berlin",
     52.5227291,
     13.3780046
   ],
