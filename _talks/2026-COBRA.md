@@ -1,5 +1,5 @@
 ---
-title: "Shared and Unique Neural Contributions to Behavior in Older Adults"
+title: "Shared and unique neural contributions to behavior in older adults"
 collection: talks
 type: "Other Talks"
 subtype: "Lab Presentation"
