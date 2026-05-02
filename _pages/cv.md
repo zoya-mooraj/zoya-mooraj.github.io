@@ -60,15 +60,3 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching and Writing Experience
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Clinical Experience
-======
-* Psychological Intern - Kazim ADHD Trust (2017)
-* Psychological Intern - Psychiatry Department, Aga Khan University (2016)
-

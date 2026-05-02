@@ -3,7 +3,7 @@ title: "ICA-based motion artefact denoising for noisy fMRI data from children an
 collection: talks
 type: "Other Talks"
 subtype: "Research Talk"
-#permalink: /talks/2026-SkillsXchange
+permalink: /talks/2026-SkillsXchange
 venue: "Skills Exchange"
 date: 2026-06-01
 location: "Berlin, Germany"
